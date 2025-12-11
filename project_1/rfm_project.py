@@ -86,3 +86,9 @@ plt.legend(title='Segment (Cluster)')
 plt.show()
 
 print("\n💡 İPUCU: Hangi Cluster (0, 1 veya 2) en değerli? Frequency ve Monetary'si YÜKSEK, Recency'si DÜŞÜK olan grup senin 'Şampiyon' müşterilerindir.")
+
+# Proje plot görsel kaydı.
+plt.savefig('rfm_analysis_plot.png', dpi=300)
+print("\nGrafik 'rfm_analysis_plot.png' olarak kaydedildi! 🖼️")
+
+plt.show()
