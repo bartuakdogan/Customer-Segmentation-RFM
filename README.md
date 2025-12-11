@@ -22,6 +22,6 @@ In this project, I analyzed the "Online Retail" dataset to segment customers bas
 
 
 Plot Image:
-![Müşteri Segmentasyon Analizi](rfm_analysis_plot.png)
+![Müşteri Segmentasyon Analizi](project_1/rfm_analysis_plot.png)
 ---
 Created by Bartu Akdogan.
