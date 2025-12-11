@@ -17,8 +17,11 @@ In this project, I analyzed the "Online Retail" dataset to segment customers bas
 
 ## 🚀 How to Run
 1. Clone the repository.
-2. Install dependencies: `pip install pandas matplotlib seaborn scikit-learn`
+2. Install dependencies: `pip install pandas matplotlib seaborn scikit-learn numpy`
 3. Run the script: `python main.py`
 
+
+Plot Image:
+![Müşteri Segmentasyon Grafiği](rfm_analysis_plot.png)
 ---
 Created by Bartu Akdogan.
